@@ -1,0 +1,12 @@
+.divstyle{
+    padding: 10px;
+    
+}
+.maindiv_style{
+    height: 100vh;
+    /* background-color: rgb(200, 241, 227); */
+    display: flex;
+   justify-content: center;
+    align-items: center;
+
+}
